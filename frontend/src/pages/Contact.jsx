@@ -21,7 +21,7 @@ const Contact = () => {
             Bhubaneswar,Odisha-751024
           </p>
           <p className="text-gray-500">
-            Tel: +91 82490-01710 <br /> Email: abhijit@example.com
+            Tel: +12-34567-89012 <br /> Email: Forever@example.com
           </p>
           <p className="font-semibold text-xl text-gray-600">
             Careers at Forever
